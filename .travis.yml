@@ -1,0 +1,6 @@
+language: objective-c
+os: osx
+osx_image: xcode11.6
+
+script:
+  - git clone git@github.com:fumkob/certificates.git
